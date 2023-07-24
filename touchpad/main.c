@@ -26,7 +26,7 @@ static TCHAR szTitle[]       = _T("F3: start writing - ESC: stop writing - C: cl
 #define VK_C_KEY 0x43;
 #define VK_Q_KEY 0x51;
 #define VK_S_KEY 0x53;
-// asf
+// asfdd
 struct ApplicationState
 {
   HID_DEVICE_INFO_LIST device_info_list;
